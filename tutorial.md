@@ -4,14 +4,9 @@
 
 ### Introduction step @showdialog
 
-![Lights flashing](/static/tutorials/games-sprite.jpg)
+![Lights flashing](https://github.com/start2code-app/mytutorial/blob/master/docs/static/games-sprite.jpg?raw=true)
 
 
-Add code to display smiley xxx
-
-```blocks
-basic.showString(":)")
-```
 ## Step 2
 
 Congratulations, you did it!
