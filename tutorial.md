@@ -4,7 +4,7 @@
 
 ### Introduction step @showdialog
 
-![Lights flashing](/static/tutorials/mytutorial/flashing-lights.gif)
+![Lights flashing](/static/tutorials/games-sprite.jpg)
 
 
 Add code to display smiley xxx
