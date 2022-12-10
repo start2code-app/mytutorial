@@ -2,6 +2,11 @@
 
 ## Step 1
 
+### Introduction step @showdialog
+
+![Lights flashing](/static/tutorials/mytutorial/flashing-lights.gif)
+
+
 Add code to display smiley xxx
 
 ```blocks
