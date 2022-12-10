@@ -1,22 +1,13 @@
 # My Tutorial xxx
 
 ## Step 1
+
+## Introduction step @showhint
 ![Lights flashing](https://github.com/start2code-app/mytutorial/blob/master/docs/static/games-sprite.jpg?raw=true)
 
-### Introduction step @showhint
-
-![Lights flashing](https://github.com/start2code-app/mytutorial/blob/master/docs/static/games-sprite.jpg?raw=true)
 
 
-## Step 2
 
-Congratulations, you did it!
-
-```blocks
-basic.showString(":(")
-basic.showString(":)")
-```
-## Step 3
 
 Try it on your microbit
 
