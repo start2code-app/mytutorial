@@ -6,11 +6,10 @@
 
 ## Step 1: Make a variable
 
-```python
-hello=0
-```
+![Lights flashing](https://github.com/start2code-app/mytutorial/blob/master/docs/static/quiz1.png?raw=true)
 
 
-Try it on your microbit
+
+Finish
 
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
