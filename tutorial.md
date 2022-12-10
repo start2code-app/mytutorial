@@ -1,6 +1,7 @@
 # My Tutorial xxx
 
 ## Step 1
+![Lights flashing](https://github.com/start2code-app/mytutorial/blob/master/docs/static/games-sprite.jpg?raw=true)
 
 ### Introduction step @showhint
 
