@@ -2,7 +2,7 @@
 
 ## Step 1
 
-Add code to display smiley
+Add code to display smiley xxx
 
 ```blocks
 basic.showString(":)")
