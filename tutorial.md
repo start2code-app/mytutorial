@@ -2,7 +2,7 @@
 
 ## Step 1
 
-### Introduction step @showdialog
+### Introduction step @showhint
 
 ![Lights flashing](https://github.com/start2code-app/mytutorial/blob/master/docs/static/games-sprite.jpg?raw=true)
 
