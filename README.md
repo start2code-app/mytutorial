@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-* [tutorial](/tutorial)
+* [tutorial](/mytutorial/tutorial)
 ## Edit this project ![Build status badge](https://github.com/start2code-app/mytutorial/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
